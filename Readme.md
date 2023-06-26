@@ -7,3 +7,7 @@ El objetivo del proyecto es desarrollar un agente inteligente de IA con python q
 * Agente inteligente de IA que emplee algoritmo minimax para tomar las decisiones del oponente en ajedrez.
 * El algoritmo minimax emplea podado alpha-beta, búsqueda de profundidad iterativa (IDS).
 * Ajuste de la dificultad de la IA
+
+> Para iniciar el programa debe ejecutar el archivo game_chess.py
+
+![Chess](./Board.PNG)
